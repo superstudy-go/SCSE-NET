@@ -21,7 +21,7 @@ Compared with the DEIM-S baseline, SCSE-Net achieves better detection accuracy w
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/mshen040123-design/SCSE-NET
+git clone https://github.com/superstudy-go/SCSE-NET
 cd SCSE-NET
 ```
 
